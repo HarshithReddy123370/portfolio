@@ -25,7 +25,7 @@ export const projects = [
     title: "Deepfake Image Detection",
     description: "An AI-powered system to detect and identify deepfake images using advanced machine learning techniques",
     technologies: ["Python", "TensorFlow", "Deep Learning", "Computer Vision"],
-    github: "https://github.com/yourusername/project1",
+    github: "https://github.com/HarshithReddy123370/deepfake-image-detection",
     demo: null,
     image: "/project1.jpg",
   },
@@ -54,7 +54,7 @@ export const experiences = [
     id: 1,
     title: "Python Developer",
     company: "Freelance",
-    period: "2023 - Present",
+    period: " Present",
     description: "Developing scalable web applications and APIs using Python frameworks. Building machine learning models for various applications including deepfake detection and recommendation systems.",
     technologies: ["Python", "Django", "Flask", "FastAPI", "TensorFlow", "PyTorch"],
   },
@@ -62,7 +62,7 @@ export const experiences = [
     id: 2,
     title: "Machine Learning Engineer",
     company: "Personal Projects",
-    period: "2022 - Present",
+    period: "2024 - Present",
     description: "Working on various ML projects including computer vision, natural language processing, and recommendation systems. Implementing deep learning models for real-world applications.",
     technologies: ["Python", "Machine Learning", "Deep Learning", "Computer Vision", "OpenCV"],
   },
@@ -76,4 +76,5 @@ export const navLinks = [
   { name: "Skills", href: "#skills" },
   { name: "Contact", href: "#contact" },
 ];
+
 
